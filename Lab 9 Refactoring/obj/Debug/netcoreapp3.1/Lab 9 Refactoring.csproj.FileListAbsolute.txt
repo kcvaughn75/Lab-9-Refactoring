@@ -1,0 +1,11 @@
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\bin\Debug\netcoreapp3.1\Lab 9 Refactoring.exe
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\bin\Debug\netcoreapp3.1\Lab 9 Refactoring.deps.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\bin\Debug\netcoreapp3.1\Lab 9 Refactoring.runtimeconfig.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\bin\Debug\netcoreapp3.1\Lab 9 Refactoring.runtimeconfig.dev.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\bin\Debug\netcoreapp3.1\Lab 9 Refactoring.dll
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\bin\Debug\netcoreapp3.1\Lab 9 Refactoring.pdb
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\obj\Debug\netcoreapp3.1\Lab 9 Refactoring.csprojAssemblyReference.cache
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\obj\Debug\netcoreapp3.1\Lab 9 Refactoring.AssemblyInfoInputs.cache
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\obj\Debug\netcoreapp3.1\Lab 9 Refactoring.AssemblyInfo.cs
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\obj\Debug\netcoreapp3.1\Lab 9 Refactoring.dll
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Lab 9 Refactoring\Lab 9 Refactoring\obj\Debug\netcoreapp3.1\Lab 9 Refactoring.pdb
